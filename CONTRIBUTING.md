@@ -2,7 +2,7 @@
 
 Please feel free to contribute to the quality of this content by submitting PR's for improvements to code snippets, explanations, etc. If there's any doubt or if you think that a word/phrase is used confusingly, **before submitting a PR, open an issue to ask about it.**
 
-However, if you choose to contribute content (not just typo corrections) to this repo, you agree that you're giving me a non-exclusive license to use that content for the book, as I (and my publisher) deem appropriate. You probably guessed that already, but I just have to make sure the lawyers are happy by explicitly stating it.
+However, if you choose to contribute content (not just typo corrections) to this repo, you agree that you're giving me a non-exclusive（非排他的） license to use that content for the book, as I (and my publisher) deem（认为） appropriate. You probably guessed that already, but I just have to make sure the lawyers are happy by explicitly stating it.
 
 ## Reading Experience (Chapter/Section links, etc)
 
@@ -10,11 +10,13 @@ I understand that reading one long .md file, with no relative cross links to oth
 
 This topic has been brought up many times, and I've considered it. For now, I **do not** accept these kinds of changes into the repo.
 
-The main purpose of my book repos is to track and manage the content for the purposes of publication (paid-for ebooks and print books). I do this in the open because I also care about providing free and early access to the content, to make sure there is no paywall barrier to learning.
+The main purpose of my book repos is to track and manage the content for the purposes of publication (paid-for ebooks and print books). I do this in the open because I also care about providing free and early access to the content, to make sure there is no paywall（网站的付费门槛） barrier to learning.
 
 As such, this repo **is not optimized for your reading experience.**
 
-The primary reading experience, likely the most pleasant one for many of you, is the ebooks or print books, which [are available for sale](http://ssearch.oreilly.com/?q=%22you+don%27t+know+js%22&x=0&y=0). The balance I'm striking here is releasing the content for free, but selling the reading experience. Other authors make different decisions on that balance, but that's what I've come to for now.
+The primary reading experience, likely the most pleasant one for many of you, is the ebooks or print books, which [are available for sale](http://ssearch.oreilly.com/?q=%22you+don%27t+know+js%22&x=0&y=0). The balance I'm striking here is **releasing the content for free, but selling the reading experience**. Other authors make different decisions on that balance, but that's what I've come to for now.
+
+> 内容免费发布，但是对优质阅读体验收费
 
 I hope you continue to enjoy and benefit from the content, and I also hope you value it enough to [purchase the best reading experience](http://ssearch.oreilly.com/?q=%22you+don%27t+know+js%22&x=0&y=0) in the ebook/print form.
 
@@ -34,4 +36,4 @@ If you're going to submit a PR for typo fixes, please be measured in doing so by
 
 ## Search First!
 
-Also, if you have any questions or concerns, please make sure to search the issues (both open and closed!) first, to keep the churn of issues to a minimum. I want to keep my focus on writing these books as much as possible.
+Also, if you have any questions or concerns, please make sure to search the issues (both open and closed!) first, to keep the churn（搅拌） of issues to a minimum. I want to keep my focus on writing these books as much as possible.
